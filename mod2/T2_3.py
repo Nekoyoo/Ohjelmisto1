@@ -5,3 +5,4 @@ b = float(b_str)
 A = a*b
 P = 2*a+2*b
 print('Suorakulmion pinta-ala on ' + str(A) + ' ja piiri ' + str(P))
+print('AAAAAAAA')
