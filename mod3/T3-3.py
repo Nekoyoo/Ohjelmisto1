@@ -4,7 +4,7 @@ if (sex != 'M' and sex != 'F'):
     print('Tarkista "sukupuoli".')
 if B_hb < 0:
     print('Tarkista "hemoglobiiniarvo.')
-if sex == 'M' and B_hb < 134:
+if sex == 'M' and B_hb < 134:M
     print('Hemoglobiiniarvosi on alhainen.')
 if sex == 'M' and 134 <= B_hb <= 195:
     print('Hemoglobiiniarvosi on normaali.')
